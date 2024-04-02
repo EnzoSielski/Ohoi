@@ -40,8 +40,15 @@
 }
 
 .escola-titulo {
-    padding: 24px 0;
+    padding: 48px 0;
+
 }
+
+.escola-texto-um{
+    padding: 32px;
+
+}
+
 body {
         font-family: "Annie Use Your Telescope", cursive;
         font-weight: 1000;
