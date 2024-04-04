@@ -23,7 +23,7 @@
 }
 
 .escola-imagem {
-    width: 30%;
+    width: 25%;
 }
 
 .escola {
@@ -36,16 +36,16 @@
 }
 
 .escola-dev-conteudo {
-    width: 10%;
+    width: 35%;
 }
 
 .escola-titulo {
-    padding: 48px 0;
+    padding: 24px 0;
 
 }
 
 .escola-texto-um{
-    padding: 24px;
+    padding: 12px;
 
 }
 
@@ -161,7 +161,7 @@ body {
 }
 .estudante-imagem{
     width: 24px;
-    padding: 12px 24px;
+    padding: 4px 8px;
 }
 .estudante-icone{
   width: 24px;
