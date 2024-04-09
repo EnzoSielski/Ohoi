@@ -49,18 +49,6 @@
 
 }
 
-body {
-  .open-sans 
-    font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
-    font-variation-settings:
-    width 100;
-  
-  
-}
-
 .estudante-imagem {
   width: 24px;
   padding: 4px 8px;
