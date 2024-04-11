@@ -74,13 +74,10 @@
   padding: 24px 0;
 }
 
-body{
-
-.open-sans-body {
+body {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
     width: 100;
-}
 }
